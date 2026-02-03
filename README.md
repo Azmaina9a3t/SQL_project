@@ -11,7 +11,7 @@ This project analyzes the data analyst job market using real job posting data to
 
 All insights were derived using SQL-based analysis, with a focus on remote-friendly roles.
 
-🔍 SQL scripts used in this project [Project_sql folder](/C:\Users\Azumani\Desktop\SQL_project\Project_sql/)
+🔍 SQL scripts used in this project [Project_sql folder](/Project_sql/)
 
 # Background
 I built this project to sharpen my SQL skills while answering practical career questions I personally care about as an aspiring data analyst. Rather than guessing which skills to learn next, I wanted data-backed answers.
