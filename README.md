@@ -11,4 +11,4 @@ This project analyzes the data analyst job market using real job posting data to
 
 All insights were derived using SQL-based analysis, with a focus on remote-friendly roles.
 
-🔍 SQL scripts used in this project [project_sql folder]()
+🔍 SQL scripts used in this project [Project_sql folder]()
