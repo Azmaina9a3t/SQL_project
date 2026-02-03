@@ -1,5 +1,5 @@
 # Introduction
-Breaking into data analytics can feel overwhelming—especially when trying to understand which roles pay the most, which skills matter, and where demand meets salary.
+Breaking into data analytics can feel overwhelming, especially when trying to understand which roles pay the most, which skills matter, and where demand meets salary.
 This project analyzes the data analyst job market using real job posting data to uncover:
 
 💰 Top-paying data analyst roles
@@ -105,7 +105,7 @@ INNER JOIN skills_dim ON skills_job_dim.skill_id = skills_dim.skill_id
 ORDER BY
     salary_year_avg DESC;
 ```
-Here's the breakdown of the most demanded skills for the top 10 highest paying data analyst jobs in 2023:
+Here's the breakdown of the most demanded skills for the top 10 highest-paying data analyst jobs in 2023:
 - **SQL** is leading with a bold count of 8.
 - **Python** follows closely with a bold count of 7.
 - **Tableau** is also highly sought after, with a bold count of 6.
